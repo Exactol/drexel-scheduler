@@ -1,0 +1,23 @@
+.course {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.course-title {
+  font-weight: bold;
+}
+
+.course-x {
+  margin-left: 40px;
+  background-color: none;
+  color: #f66734;
+  border: none;
+  height: 1.2em;
+  z-index: 1;
+}
+
+.course-description {
+  display: flex;
+  flex-direction: column;
+}

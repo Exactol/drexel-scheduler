@@ -1,0 +1,5 @@
+.registration {
+  /* background-color: red; */
+  display: flex;
+  flex-direction: row;
+}

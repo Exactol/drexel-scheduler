@@ -1,0 +1,17 @@
+.course-selection {
+  display: flex;
+  flex-direction: column;
+  background-color: #F8F9FD;
+  padding: 20px 0;
+  /* subtract padding from height */
+  height: calc(100vh - 40px);
+  width: 30%;
+}
+
+.course-select {
+  margin: 0 20px;
+}
+
+.course-submit {
+  margin: 0 20px;
+}

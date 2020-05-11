@@ -1,0 +1,8 @@
+.courses {
+  display: flex;
+  flex-direction: column;
+  margin: 20px 0;
+  height: 80%;
+  overflow: auto;
+  padding: 0 20px;
+}
